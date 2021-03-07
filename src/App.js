@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+// components
+import Navbar from "./components/Navbar";
+import CartContainer from "./components/CartContainer";
+// redux
+import { createStore } from 'redux';
+import { Provider } from 'react-redux';
+import reducer from './reducer';
+
+const store = createStore (reducer);
 
 function App() {
+  // cart setup
+
+  //{store} the store name should match with the store variable storing createStore
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Provider store={store}>
+      <Navbar/>
+      <CartContainer />
+    </Provider>
   );
 }
 
