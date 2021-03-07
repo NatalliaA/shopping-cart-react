@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopping-cart-react/static/css/main.99f44826.chunk.css",
+    "main.js": "/shopping-cart-react/static/js/main.908daaee.chunk.js",
+    "main.js.map": "/shopping-cart-react/static/js/main.908daaee.chunk.js.map",
+    "runtime-main.js": "/shopping-cart-react/static/js/runtime-main.376971b3.js",
+    "runtime-main.js.map": "/shopping-cart-react/static/js/runtime-main.376971b3.js.map",
+    "static/js/2.222ee5a9.chunk.js": "/shopping-cart-react/static/js/2.222ee5a9.chunk.js",
+    "static/js/2.222ee5a9.chunk.js.map": "/shopping-cart-react/static/js/2.222ee5a9.chunk.js.map",
+    "index.html": "/shopping-cart-react/index.html",
+    "static/css/main.99f44826.chunk.css.map": "/shopping-cart-react/static/css/main.99f44826.chunk.css.map",
+    "static/js/2.222ee5a9.chunk.js.LICENSE.txt": "/shopping-cart-react/static/js/2.222ee5a9.chunk.js.LICENSE.txt",
+    "static/media/boat.0fe697bc.png": "/shopping-cart-react/static/media/boat.0fe697bc.png",
+    "static/media/crossfit.6a816912.png": "/shopping-cart-react/static/media/crossfit.6a816912.png",
+    "static/media/meditation.f1674974.png": "/shopping-cart-react/static/media/meditation.f1674974.png",
+    "static/media/trekking.2886b6a8.png": "/shopping-cart-react/static/media/trekking.2886b6a8.png",
+    "static/media/yoga.1b73c670.png": "/shopping-cart-react/static/media/yoga.1b73c670.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.376971b3.js",
+    "static/js/2.222ee5a9.chunk.js",
+    "static/css/main.99f44826.chunk.css",
+    "static/js/main.908daaee.chunk.js"
+  ]
+}
